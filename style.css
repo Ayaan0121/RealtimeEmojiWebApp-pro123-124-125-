@@ -1,0 +1,60 @@
+.heading{
+    font-size: 28px;
+    width: 100%;
+    margin:0px;
+    background:url(hi.gif);
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-weight: bold;
+    line-height: 3;
+    height: 80px;
+    padding-bottom: 80px;
+    color: royalblue;
+   
+
+}
+
+.note{
+font-size: 18px;
+color:white;
+font-family: 'Pacifico', cursive;
+font-weight:100;
+
+}
+
+.copy_right_footer{
+
+    position: fixed;
+    color:mediumaquamarine;
+    float: center;
+    bottom: 0;
+    width: 100%;
+    background-color: gray ;
+    line-height: 2;
+    text-align: center;
+    font-weight: bold;
+    font-family: monospace;
+    font-style: italic;
+    font-size: 30px;
+    
+
+}
+
+h3:hover{
+    
+    color:red !important;
+    
+}
+
+canvas{
+    border: 0px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+    margin-top: 10px;
+}
+
+
+body{
+    background-image: url(yo.gif);
+
+}
+
